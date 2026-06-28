@@ -1,4 +1,4 @@
-# 
+# 免费 pump.fun sniper bot 预设 Mac OS版 | 轻量 pump.fun sniper bot 预设 PC Windows版。集成 蜜罐检测 和 快速执行，跨平台性能最大化。
 
 
 
